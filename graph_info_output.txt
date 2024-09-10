@@ -1,0 +1,4 @@
+Número de vértices: 5
+Número de arestas: 5
+Grau médio: 2.00
+Distribuição dos graus: [2, 3, 2, 2, 1]
